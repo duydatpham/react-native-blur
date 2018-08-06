@@ -1,3 +1,6 @@
+Thanks for https://github.com/react-native-community/react-native-blur
+We custom for android like https://github.com/mmin18/RealtimeBlurView
+
 [![npm version](https://badge.fury.io/js/react-native-blur.svg)](https://badge.fury.io/js/react-native-blur)
 
 ### React Native Blur
